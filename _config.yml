@@ -1,0 +1,7 @@
+title: dntrader
+description: A blog/notes site with interactive calculators
+baseurl: "/dnr"
+url: ""
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/

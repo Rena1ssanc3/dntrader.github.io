@@ -1,0 +1,1012 @@
+[
+  {
+    "name": "怪物卡片-副官翁扎卡",
+    "grade": "C",
+    "value": 1,
+    "stats": [
+      {
+        "stat": "力量",
+        "value": 1
+      },
+      {
+        "stat": "致命抵抗",
+        "value": 10
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 1.18,
+      "中级阿尔泰": 1.18
+    }
+  },
+  {
+    "name": "怪物卡片-副官翁扎卡",
+    "grade": "B",
+    "value": 2,
+    "stats": [
+      {
+        "stat": "力量",
+        "value": 2
+      },
+      {
+        "stat": "致命抵抗",
+        "value": 21
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 1.0,
+      "中级阿尔泰": 1.0
+    }
+  },
+  {
+    "name": "怪物卡片-副官翁扎卡",
+    "grade": "A",
+    "value": 3,
+    "stats": [
+      {
+        "stat": "力量",
+        "value": 3
+      },
+      {
+        "stat": "致命抵抗",
+        "value": 32
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 2.0,
+      "中级阿尔泰": 2.0
+    }
+  },
+  {
+    "name": "怪物卡片-副官翁扎卡",
+    "grade": "S",
+    "value": 4,
+    "stats": [
+      {
+        "stat": "力量",
+        "value": 4
+      },
+      {
+        "stat": "致命抵抗",
+        "value": 43
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 8.0,
+      "中级阿尔泰": 8.0
+    }
+  },
+  {
+    "name": "怪物卡片-副官翁扎卡",
+    "grade": "L",
+    "value": 5,
+    "stats": [
+      {
+        "stat": "力量",
+        "value": 5
+      },
+      {
+        "stat": "致命抵抗",
+        "value": 54
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 40.0,
+      "中级阿尔泰": 40.0
+    }
+  },
+  {
+    "name": "怪物卡片-副官翁哈尔",
+    "grade": "C",
+    "value": 1,
+    "stats": [
+      {
+        "stat": "敏捷",
+        "value": 1
+      },
+      {
+        "stat": "眩晕抵抗",
+        "value": 10
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 1.18,
+      "中级阿尔泰": 1.18
+    }
+  },
+  {
+    "name": "怪物卡片-副官翁哈尔",
+    "grade": "B",
+    "value": 2,
+    "stats": [
+      {
+        "stat": "敏捷",
+        "value": 2
+      },
+      {
+        "stat": "眩晕抵抗",
+        "value": 21
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 1.0,
+      "中级阿尔泰": 1.0
+    }
+  },
+  {
+    "name": "怪物卡片-副官翁哈尔",
+    "grade": "A",
+    "value": 3,
+    "stats": [
+      {
+        "stat": "敏捷",
+        "value": 3
+      },
+      {
+        "stat": "眩晕抵抗",
+        "value": 32
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 2.0,
+      "中级阿尔泰": 2.0
+    }
+  },
+  {
+    "name": "怪物卡片-副官翁哈尔",
+    "grade": "S",
+    "value": 4,
+    "stats": [
+      {
+        "stat": "敏捷",
+        "value": 4
+      },
+      {
+        "stat": "眩晕抵抗",
+        "value": 43
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 8.0,
+      "中级阿尔泰": 8.0
+    }
+  },
+  {
+    "name": "怪物卡片-副官翁哈尔",
+    "grade": "L",
+    "value": 5,
+    "stats": [
+      {
+        "stat": "敏捷",
+        "value": 5
+      },
+      {
+        "stat": "眩晕抵抗",
+        "value": 54
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 40.0,
+      "中级阿尔泰": 40.0
+    }
+  },
+  {
+    "name": "怪物卡片-深红大将翁曼巴",
+    "grade": "C",
+    "value": 2,
+    "stats": [
+      {
+        "stat": "智力",
+        "value": 1
+      },
+      {
+        "stat": "体质",
+        "value": 1
+      },
+      {
+        "stat": "硬直抵抗",
+        "value": 15
+      }
+    ],
+    "amortized_cost": {
+      "中级阿尔泰": 1.18,
+      "中级钻石": 1.18
+    }
+  },
+  {
+    "name": "怪物卡片-深红大将翁曼巴",
+    "grade": "B",
+    "value": 4,
+    "stats": [
+      {
+        "stat": "智力",
+        "value": 2
+      },
+      {
+        "stat": "体质",
+        "value": 2
+      },
+      {
+        "stat": "硬直抵抗",
+        "value": 31
+      }
+    ],
+    "amortized_cost": {
+      "中级阿尔泰": 1.0,
+      "中级钻石": 1.0
+    }
+  },
+  {
+    "name": "怪物卡片-深红大将翁曼巴",
+    "grade": "A",
+    "value": 6,
+    "stats": [
+      {
+        "stat": "智力",
+        "value": 3
+      },
+      {
+        "stat": "体质",
+        "value": 3
+      },
+      {
+        "stat": "硬直抵抗",
+        "value": 46
+      }
+    ],
+    "amortized_cost": {
+      "中级阿尔泰": 2.0,
+      "中级钻石": 2.0
+    }
+  },
+  {
+    "name": "怪物卡片-深红大将翁曼巴",
+    "grade": "S",
+    "value": 8,
+    "stats": [
+      {
+        "stat": "智力",
+        "value": 4
+      },
+      {
+        "stat": "体质",
+        "value": 4
+      },
+      {
+        "stat": "硬直抵抗",
+        "value": 62
+      }
+    ],
+    "amortized_cost": {
+      "中级阿尔泰": 8.0,
+      "中级钻石": 8.0
+    }
+  },
+  {
+    "name": "怪物卡片-深红大将翁曼巴",
+    "grade": "L",
+    "value": 10,
+    "stats": [
+      {
+        "stat": "智力",
+        "value": 5
+      },
+      {
+        "stat": "体质",
+        "value": 5
+      },
+      {
+        "stat": "硬直抵抗",
+        "value": 78
+      }
+    ],
+    "amortized_cost": {
+      "中级阿尔泰": 40.0,
+      "中级钻石": 40.0
+    }
+  },
+  {
+    "name": "怪物卡片-牛头怪骑士",
+    "grade": "C",
+    "value": 4,
+    "stats": [
+      {
+        "stat": "魔防",
+        "value": 14
+      },
+      {
+        "stat": "硬直",
+        "value": 31
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.88,
+      "中级阿尔泰": 5.88
+    }
+  },
+  {
+    "name": "怪物卡片-牛头怪骑士",
+    "grade": "B",
+    "value": 8,
+    "stats": [
+      {
+        "stat": "魔防",
+        "value": 29
+      },
+      {
+        "stat": "硬直",
+        "value": 63
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.0,
+      "中级阿尔泰": 5.0
+    }
+  },
+  {
+    "name": "怪物卡片-牛头怪骑士",
+    "grade": "A",
+    "value": 12,
+    "stats": [
+      {
+        "stat": "魔防",
+        "value": 43
+      },
+      {
+        "stat": "硬直",
+        "value": 95
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 10.0,
+      "中级阿尔泰": 10.0
+    }
+  },
+  {
+    "name": "怪物卡片-牛头怪骑士",
+    "grade": "S",
+    "value": 16,
+    "stats": [
+      {
+        "stat": "魔防",
+        "value": 58
+      },
+      {
+        "stat": "硬直",
+        "value": 127
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 40.0,
+      "中级阿尔泰": 40.0
+    }
+  },
+  {
+    "name": "怪物卡片-牛头怪骑士",
+    "grade": "L",
+    "value": 20,
+    "stats": [
+      {
+        "stat": "魔防",
+        "value": 73
+      },
+      {
+        "stat": "硬直",
+        "value": 159
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 200.0,
+      "中级阿尔泰": 200.0
+    }
+  },
+  {
+    "name": "怪物卡片-牛头怪指挥官",
+    "grade": "C",
+    "value": 4,
+    "stats": [
+      {
+        "stat": "物防",
+        "value": 14
+      },
+      {
+        "stat": "眩晕",
+        "value": 31
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.88,
+      "中级阿尔泰": 5.88
+    }
+  },
+  {
+    "name": "怪物卡片-牛头怪指挥官",
+    "grade": "B",
+    "value": 8,
+    "stats": [
+      {
+        "stat": "物防",
+        "value": 29
+      },
+      {
+        "stat": "眩晕",
+        "value": 63
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.0,
+      "中级阿尔泰": 5.0
+    }
+  },
+  {
+    "name": "怪物卡片-牛头怪指挥官",
+    "grade": "A",
+    "value": 12,
+    "stats": [
+      {
+        "stat": "物防",
+        "value": 43
+      },
+      {
+        "stat": "眩晕",
+        "value": 95
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 10.0,
+      "中级阿尔泰": 10.0
+    }
+  },
+  {
+    "name": "怪物卡片-牛头怪指挥官",
+    "grade": "S",
+    "value": 16,
+    "stats": [
+      {
+        "stat": "物防",
+        "value": 58
+      },
+      {
+        "stat": "眩晕",
+        "value": 127
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 40.0,
+      "中级阿尔泰": 40.0
+    }
+  },
+  {
+    "name": "怪物卡片-牛头怪指挥官",
+    "grade": "L",
+    "value": 20,
+    "stats": [
+      {
+        "stat": "物防",
+        "value": 73
+      },
+      {
+        "stat": "眩晕",
+        "value": 159
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 200.0,
+      "中级阿尔泰": 200.0
+    }
+  },
+  {
+    "name": "怪物卡片-利爪小精灵",
+    "grade": "C",
+    "value": 4,
+    "stats": [
+      {
+        "stat": "物攻",
+        "value": 2
+      },
+      {
+        "stat": "致命",
+        "value": 24
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.88,
+      "中级阿尔泰": 5.88
+    }
+  },
+  {
+    "name": "怪物卡片-利爪小精灵",
+    "grade": "B",
+    "value": 8,
+    "stats": [
+      {
+        "stat": "物攻",
+        "value": 4
+      },
+      {
+        "stat": "致命",
+        "value": 48
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.0,
+      "中级阿尔泰": 5.0
+    }
+  },
+  {
+    "name": "怪物卡片-利爪小精灵",
+    "grade": "A",
+    "value": 12,
+    "stats": [
+      {
+        "stat": "物攻",
+        "value": 6
+      },
+      {
+        "stat": "致命",
+        "value": 72
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 10.0,
+      "中级阿尔泰": 10.0
+    }
+  },
+  {
+    "name": "怪物卡片-利爪小精灵",
+    "grade": "S",
+    "value": 16,
+    "stats": [
+      {
+        "stat": "物攻",
+        "value": 8
+      },
+      {
+        "stat": "致命",
+        "value": 96
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 40.0,
+      "中级阿尔泰": 40.0
+    }
+  },
+  {
+    "name": "怪物卡片-利爪小精灵",
+    "grade": "L",
+    "value": 20,
+    "stats": [
+      {
+        "stat": "物攻",
+        "value": 10
+      },
+      {
+        "stat": "致命",
+        "value": 120
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 200.0,
+      "中级阿尔泰": 200.0
+    }
+  },
+  {
+    "name": "怪物卡片-布洛怪萨满",
+    "grade": "C",
+    "value": 4,
+    "stats": [
+      {
+        "stat": "魔攻",
+        "value": 2
+      },
+      {
+        "stat": "硬直",
+        "value": 7
+      },
+      {
+        "stat": "法力",
+        "value": 85
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.88,
+      "中级阿尔泰": 5.88
+    }
+  },
+  {
+    "name": "怪物卡片-布洛怪萨满",
+    "grade": "B",
+    "value": 8,
+    "stats": [
+      {
+        "stat": "魔攻",
+        "value": 4
+      },
+      {
+        "stat": "硬直",
+        "value": 15
+      },
+      {
+        "stat": "法力",
+        "value": 171
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.0,
+      "中级阿尔泰": 5.0
+    }
+  },
+  {
+    "name": "怪物卡片-布洛怪萨满",
+    "grade": "A",
+    "value": 12,
+    "stats": [
+      {
+        "stat": "魔攻",
+        "value": 6
+      },
+      {
+        "stat": "硬直",
+        "value": 23
+      },
+      {
+        "stat": "法力",
+        "value": 256
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 10.0,
+      "中级阿尔泰": 10.0
+    }
+  },
+  {
+    "name": "怪物卡片-布洛怪萨满",
+    "grade": "S",
+    "value": 16,
+    "stats": [
+      {
+        "stat": "魔攻",
+        "value": 8
+      },
+      {
+        "stat": "硬直",
+        "value": 31
+      },
+      {
+        "stat": "法力",
+        "value": 342
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 40.0,
+      "中级阿尔泰": 40.0
+    }
+  },
+  {
+    "name": "怪物卡片-布洛怪萨满",
+    "grade": "L",
+    "value": 20,
+    "stats": [
+      {
+        "stat": "魔攻",
+        "value": 10
+      },
+      {
+        "stat": "硬直",
+        "value": 39
+      },
+      {
+        "stat": "法力",
+        "value": 428
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 200.0,
+      "中级阿尔泰": 200.0
+    }
+  },
+  {
+    "name": "怪物卡片-食人魔奴隶",
+    "grade": "C",
+    "value": 4,
+    "stats": [
+      {
+        "stat": "力量",
+        "value": 2
+      },
+      {
+        "stat": "魔防",
+        "value": 14
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.88,
+      "中级阿尔泰": 5.88
+    }
+  },
+  {
+    "name": "怪物卡片-食人魔奴隶",
+    "grade": "B",
+    "value": 8,
+    "stats": [
+      {
+        "stat": "力量",
+        "value": 4
+      },
+      {
+        "stat": "魔防",
+        "value": 28
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.0,
+      "中级阿尔泰": 5.0
+    }
+  },
+  {
+    "name": "怪物卡片-食人魔奴隶",
+    "grade": "A",
+    "value": 12,
+    "stats": [
+      {
+        "stat": "力量",
+        "value": 6
+      },
+      {
+        "stat": "魔防",
+        "value": 43
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 10.0,
+      "中级阿尔泰": 10.0
+    }
+  },
+  {
+    "name": "怪物卡片-食人魔奴隶",
+    "grade": "S",
+    "value": 16,
+    "stats": [
+      {
+        "stat": "力量",
+        "value": 8
+      },
+      {
+        "stat": "魔防",
+        "value": 57
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 40.0,
+      "中级阿尔泰": 40.0
+    }
+  },
+  {
+    "name": "怪物卡片-食人魔奴隶",
+    "grade": "L",
+    "value": 20,
+    "stats": [
+      {
+        "stat": "力量",
+        "value": 10
+      },
+      {
+        "stat": "魔防",
+        "value": 72
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 200.0,
+      "中级阿尔泰": 200.0
+    }
+  },
+  {
+    "name": "怪物卡片-食人魔 指挥官",
+    "grade": "C",
+    "value": 4,
+    "stats": [
+      {
+        "stat": "敏捷",
+        "value": 2
+      },
+      {
+        "stat": "魔防",
+        "value": 14
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.88,
+      "中级阿尔泰": 5.88
+    }
+  },
+  {
+    "name": "怪物卡片-食人魔 指挥官",
+    "grade": "B",
+    "value": 8,
+    "stats": [
+      {
+        "stat": "敏捷",
+        "value": 4
+      },
+      {
+        "stat": "魔防",
+        "value": 28
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 5.0,
+      "中级阿尔泰": 5.0
+    }
+  },
+  {
+    "name": "怪物卡片-食人魔 指挥官",
+    "grade": "A",
+    "value": 12,
+    "stats": [
+      {
+        "stat": "敏捷",
+        "value": 6
+      },
+      {
+        "stat": "魔防",
+        "value": 43
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 10.0,
+      "中级阿尔泰": 10.0
+    }
+  },
+  {
+    "name": "怪物卡片-食人魔 指挥官",
+    "grade": "S",
+    "value": 16,
+    "stats": [
+      {
+        "stat": "敏捷",
+        "value": 8
+      },
+      {
+        "stat": "魔防",
+        "value": 57
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 40.0,
+      "中级阿尔泰": 40.0
+    }
+  },
+  {
+    "name": "怪物卡片-食人魔 指挥官",
+    "grade": "L",
+    "value": 20,
+    "stats": [
+      {
+        "stat": "敏捷",
+        "value": 10
+      },
+      {
+        "stat": "魔防",
+        "value": 72
+      }
+    ],
+    "amortized_cost": {
+      "中级玛瑙": 200.0,
+      "中级阿尔泰": 200.0
+    }
+  },
+  {
+    "name": "怪物卡片-地狱犬卡卡里",
+    "grade": "C",
+    "value": 8,
+    "stats": [
+      {
+        "stat": "物攻",
+        "value": 4
+      },
+      {
+        "stat": "魔攻",
+        "value": 4
+      },
+      {
+        "stat": "生命",
+        "value": 121
+      }
+    ],
+    "amortized_cost": {
+      "中级阿尔泰": 5.88,
+      "中级钻石": 5.88
+    }
+  },
+  {
+    "name": "怪物卡片-地狱犬卡卡里",
+    "grade": "B",
+    "value": 16,
+    "stats": [
+      {
+        "stat": "物攻",
+        "value": 8
+      },
+      {
+        "stat": "魔攻",
+        "value": 8
+      },
+      {
+        "stat": "生命",
+        "value": 242
+      }
+    ],
+    "amortized_cost": {
+      "中级阿尔泰": 5.0,
+      "中级钻石": 5.0
+    }
+  },
+  {
+    "name": "怪物卡片-地狱犬卡卡里",
+    "grade": "A",
+    "value": 24,
+    "stats": [
+      {
+        "stat": "物攻",
+        "value": 12
+      },
+      {
+        "stat": "魔攻",
+        "value": 12
+      },
+      {
+        "stat": "生命",
+        "value": 363
+      }
+    ],
+    "amortized_cost": {
+      "中级阿尔泰": 10.0,
+      "中级钻石": 10.0
+    }
+  },
+  {
+    "name": "怪物卡片-地狱犬卡卡里",
+    "grade": "S",
+    "value": 32,
+    "stats": [
+      {
+        "stat": "物攻",
+        "value": 16
+      },
+      {
+        "stat": "魔攻",
+        "value": 16
+      },
+      {
+        "stat": "生命",
+        "value": 484
+      }
+    ],
+    "amortized_cost": {
+      "中级阿尔泰": 40.0,
+      "中级钻石": 40.0
+    }
+  },
+  {
+    "name": "怪物卡片-地狱犬卡卡里",
+    "grade": "L",
+    "value": 40,
+    "stats": [
+      {
+        "stat": "物攻",
+        "value": 21
+      },
+      {
+        "stat": "魔攻",
+        "value": 21
+      },
+      {
+        "stat": "生命",
+        "value": 605
+      }
+    ],
+    "amortized_cost": {
+      "中级阿尔泰": 200.0,
+      "中级钻石": 200.0
+    }
+  }
+]
