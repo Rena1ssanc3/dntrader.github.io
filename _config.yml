@@ -1,7 +1,7 @@
 title: dntrader
 description: A blog/notes site with interactive calculators
-baseurl: "/dnr"
-url: ""
+baseurl: ""
+url: "https://dnr.9394968.xyz"
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
